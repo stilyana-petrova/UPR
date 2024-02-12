@@ -7,6 +7,10 @@ do not change
 
 second change
 
+<<<<<<< HEAD
 this is from second branch
 
 this commit was made by first branch
+=======
+is this branch2?
+>>>>>>> branch2
