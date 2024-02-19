@@ -1,4 +1,8 @@
 Developer1
 Change
+<<<<<<< HEAD
 
 Main change
+=======
+developer change 2
+>>>>>>> developer1
